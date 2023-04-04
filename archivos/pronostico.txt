@@ -1,0 +1,9 @@
+Argentina 1 0 0 Mexico
+Alemania 0 0 1 Holanda
+Francia 0 0 1 Japon
+Polonia 1 0 0 Arabia-Saudita
+Catar 0 0 1 Ecuador
+Inglaterra 0 1 0 Iran
+Estados-Unidos 1 0 0 Gales
+Mexico 0 1 0 Colombia
+Uruguay 0 0 1 Suiza
